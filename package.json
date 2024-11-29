@@ -1,0 +1,15 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "task-tracker": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sahil Ramchandani",
+  "license": "ISC",
+  "description": "This is a task-tracker project from roadmap.sh"
+}
